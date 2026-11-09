@@ -25,6 +25,6 @@ This program calculates shared room expenses, including rent, food, electricity 
 python rent_calculator.py
 
 ## Author
-CSE First-Year Student
+Debojit Singha
 
 My first step into the world of programming!
